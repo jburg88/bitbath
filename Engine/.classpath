@@ -3,6 +3,19 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/hackjvm"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/jme2"/>
+	<classpathentry kind="lib" path="jme.jar"/>
+	<classpathentry kind="lib" path="hackengine.jar"/>
+	<classpathentry kind="lib" path="jme-audio.jar"/>
+	<classpathentry kind="lib" path="jme-awt.jar"/>
+	<classpathentry kind="lib" path="jme-collada.jar"/>
+	<classpathentry kind="lib" path="jme-editors.jar"/>
+	<classpathentry kind="lib" path="jme-effects.jar"/>
+	<classpathentry kind="lib" path="jme-font.jar"/>
+	<classpathentry kind="lib" path="jme-gamestates.jar"/>
+	<classpathentry kind="lib" path="jme-model.jar"/>
+	<classpathentry kind="lib" path="jme-ogrexml.jar"/>
+	<classpathentry kind="lib" path="jme-scene.jar"/>
+	<classpathentry kind="lib" path="jme-swt.jar"/>
+	<classpathentry kind="lib" path="jme-terrain.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
