@@ -242,7 +242,7 @@ public abstract class Chooser {
         @Override
         public void run() {
         try {
-            Random seeder = new Random();
+            Random seeder = new Random(42);
             Map<Object, Integer> wins = new HashMap<Object, Integer>();
             while (true) {
             int seed = Math.abs(seeder.nextInt());
